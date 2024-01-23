@@ -16,7 +16,7 @@ A landing page pessoal é um projeto frontend simples que destaca suas habilidad
 
 ## Demo
 
-Veja uma demo ao vivo da landing page [aqui](#https://aryelson1.github.io/Portfolio/).
+Veja uma demo ao vivo da landing page [aqui](https://aryelson1.github.io/Portfolio/).
 
 ## Recursos
 
