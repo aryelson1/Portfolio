@@ -763,6 +763,11 @@ span{
 
 /* BREAKPOINTS*/
 @media (max-width: 991px) {
+
+    #content-body{
+        display: none;
+    }
+
     .header{
         padding: 2rem 4%;
     }
@@ -783,6 +788,10 @@ span{
 @media (max-width: 768px) {
     .header{
         background: var(--bg-color);
+    }
+
+    #content-body{
+        display: none;
     }
 
     #menu-icon{
